@@ -14,6 +14,9 @@ This repository is meant to contain simple exercises that help me learn the fund
 **-> Number Guessing game** - the 24th of October 2024 
 - a number is chosen from a Python random library and the user tries to guess what it using an input function.
 - using a while loop and an if statement, the computer helps the user find the right answer.
+**-> Password generator** - the 30th of October 2024
+- a password is created by choosing 4 random numbers and mixing them up them to make a password.
+- it leverages the concepts of lists, loops and the random module.
 
 ## Contributions ##
 - If you have any corrections or improvements, please feel free to contribute.
