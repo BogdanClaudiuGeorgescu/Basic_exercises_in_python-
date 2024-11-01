@@ -19,6 +19,10 @@ This repository is meant to contain simple exercises that help me learn the fund
 - a password is created by choosing 4 random numbers and mixing them up them to make a password.
 - it leverages the concepts of lists, loops and the random module.
 
+**-> Basic for loops** - the 1st of November 2024
+- making use of for loops to solve basic Python problems. 
+- secondary use is made of lists, range functions, variables, f strings, dictionaries, tuples. 
+
 ## Contributions ##
 - If you have any corrections or improvements, please feel free to contribute.
 
