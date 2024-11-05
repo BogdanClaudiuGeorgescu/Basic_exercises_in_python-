@@ -27,6 +27,10 @@ This repository is meant to contain simple exercises that help me learn the fund
 - if and elif conditional statements are used to process user input in order to make simple arithmetic operations.
 - user input is captured using variables.
 
+**-> FizzBuzz** - the 5th of November 2024
+- making use of if, elif and else conditional statements to print certain strings instead of numbers in a range from 1 to 100.
+- a for loop was used & print functions.
+
 ## Contributions ##
 - If you have any corrections or improvements, please feel free to contribute.
 
