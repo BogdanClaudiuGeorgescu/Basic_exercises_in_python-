@@ -23,7 +23,7 @@ This repository is meant to contain simple exercises that help me learn the fund
 - making use of for loops to solve basic Python problems. 
 - secondary use is made of lists, range functions, variables, f strings, dictionaries, tuples.
 
-**-> Basic for loops** - the 5th of November 2024
+**-> Calculator** - the 5th of November 2024
 - if and elif conditional statements are used to process user input in order to make simple arithmetic operations.
 - user input is captured using variables.
 
