@@ -1,3 +1,8 @@
+# The Challenge: 
+# Create a simple calculator that can do addition, subtraction, multiplication and division.
+
+
+# The Solution:
 arithmetic_operation = input("What operation do you want to perform? Please reply by typing in either"
                              " \"addition\", \"subtraction\", \"multiplication\" or \"division\" -> ").lower()
 
