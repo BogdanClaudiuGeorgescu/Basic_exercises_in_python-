@@ -1,8 +1,8 @@
-# The Challenge: Build an Even or Odd Number Checker
-# Concepts: Conditionals, user input
-# Description: Ask the user to input a number and determine if it is even or odd.
-# You can also extend it by adding features like checking if it's positive, negative, or zero.
+# The Challenge: Ask the user to input a number and determine if it is Even or Odd.
+# You can also extend it by adding features like checking if it's Positive, Negative, or Zero.
 
+
+# The Solution: 
 user_input = int(input("Please provide a number: "))
 print(user_input)
 
