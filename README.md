@@ -31,6 +31,11 @@ This repository is meant to contain simple exercises that help me learn the fund
 - making use of if, elif and else conditional statements to print certain strings instead of numbers in a range from 1 to 100.
 - 2 solutions were used: one with a hardcoded range and one with a dinamic range.
 
+**-> Even or Odd  number checker** - the 7th of November 2024
+- capturing user user input to determine if a number is Odd or Even.
+- as a bonus, a further determination is made of whetehr the number is Positive, Negative or Zero.
+- nested if statements and f strings are used.
+
 ## Contributions ##
 - If you have any corrections or improvements, please feel free to contribute.
 
