@@ -1,5 +1,4 @@
-# The Challenge: Build a simple unit converter that can convert between kilometers and miles, Celsius and Fahrenheit,
-# or other basic units of measurement.
+# The Challenge: Build a simple unit converter that can convert between kilometers and miles, Celsius and Fahrenheit.
 
 # The Solution:
 
