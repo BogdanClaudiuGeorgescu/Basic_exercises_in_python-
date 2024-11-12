@@ -38,7 +38,11 @@ This repository is meant to contain simple exercises that help me learn the fund
 
 **-> A basic unit converter** - the 11th of November 2024
 - taking user input to change miles in to kilometers and vice versa, degrees Fahrenheit into degrees Celsius and vice versa.
-- making use of the pyinputplus library, a while loop and if / elif statements. 
+- making use of the pyinputplus library, a while loop and if / elif statements.
+
+**-> Counting vowels and consonants in a string** - the 12th of November 2024
+- a program that takes input from a user and counts how many vowels and consonants the input contains.
+- variables, for loops and nested if statements are used. 
 
 ## Contributions ##
 - If you have any corrections or improvements, please feel free to contribute.
