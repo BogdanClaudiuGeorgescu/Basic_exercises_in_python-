@@ -45,7 +45,7 @@ This repository is meant to contain simple exercises that help me learn the fund
 - variables, for loops and nested if statements are used.
 
 **-> Mad Libs Game** - the 13th of November 2024
-- 4 inputs are taken from the user to fill in the gaps in an f string.
+- 4 inputs are taken from the user to fill the gaps in an f string.
 - variables and randomization are used ... and a touch of poetry. 
 
 ## Contributions ##
