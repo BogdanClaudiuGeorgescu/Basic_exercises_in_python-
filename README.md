@@ -46,7 +46,7 @@ This repository is meant to contain simple exercises that help me learn the fund
 
 **-> Mad Libs Game** - the 13th of November 2024
 - 4 inputs are taken from the user to fill the gaps in an f string.
-- variables and randomization are used ... and a touch of poetry. 
+- variables and randomization are used ... with a touch of poetry. 
 
 ## Contributions ##
 - If you have any corrections or improvements, please feel free to contribute.
