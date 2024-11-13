@@ -46,7 +46,11 @@ This repository is meant to contain simple exercises that help me learn the fund
 
 **-> Mad Libs Game** - the 13th of November 2024
 - 4 inputs are taken from the user to fill the gaps in an f string.
-- variables and randomization are used ... with a touch of poetry. 
+- variables and randomization are used ... with a touch of poetry.
+
+**-> Tip calculator** - the 13th of November 2024
+- calaculating the value of a tip by asking for 2 inputs: one ofr the bill and one for a tip percentage.
+- calculating the value of the tip and the value opf the final amount to pe paied by using if statements inside a while loop. 
 
 ## Contributions ##
 - If you have any corrections or improvements, please feel free to contribute.
